@@ -164,4 +164,4 @@ Data Preprocessing ➡ Exploratory Data Analysis (EDA) ➡ Model Development ➡
 - Chege Kennedy: Asst Administrative Lead
 
 ## Note: 
-* Due to the nature of this project, code cannot be shared publicly.
+* Due to proprietary reasons associated with this project, code cannot be shared publicly.
